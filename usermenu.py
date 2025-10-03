@@ -8,7 +8,7 @@ def print_menu():
     print("6. Show Playlist")
     print("7. Add Song to Playlist")
     print("8. Remove Song from Playlist")
-    print("9. Exit")
+    print("9. Quit")
 
 def get_user_choice():
     try:
